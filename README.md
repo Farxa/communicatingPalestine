@@ -3,11 +3,13 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img
-    src="https://cdn.prod.website-files.com/68b7a404397151114985814c/68c1cc66b4897f5ec89f416e_CP_Logo_FC.svg"
-    alt="Communicating Palestine"
-    width="100%"
-  />
+  <a href="https://communicatingpalestine.org" target="_blank">
+    <img
+      src="https://cdn.prod.website-files.com/68b7a404397151114985814c/68c1cc66b4897f5ec89f416e_CP_Logo_FC.svg"
+      alt="Communicating Palestine"
+      width="100%"
+    />
+  </a>
 </p>
 <br/>
 <hr/>
