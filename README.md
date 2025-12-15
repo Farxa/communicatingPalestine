@@ -126,5 +126,3 @@ This guide is the outcome of a Palestinian-led collective process, coordinated b
     width="100%"
   />
 </p>
-
-<p style="color:#6b7280;"><em>*Find more in the background section*</em></p>
