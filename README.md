@@ -9,9 +9,7 @@
     width="100%"
   />
 </p>
-
 <br/>
-
 <hr/>
 
 <br/>
@@ -22,7 +20,6 @@
 <strong>Communicating Palestine</strong> is a go-to guide offering tools to narrate and engage with Palestine ethically and responsibly. From best practices for countering disinformation to fostering ethical reporting and centring Palestinian agency, this one-stop manual empowers everyone—from activists and artists to journalists and policymakers—to communicate Palestine with integrity.
 </p>
 
-<br/>
 
 <h3 style="color:#374151; font-size:1.2em; letter-spacing:0.05em;">
 WHY
@@ -32,7 +29,6 @@ WHY
 Stories, reports, pictures and all forms of communication can inspire, educate, mobilise, and connect people. In contexts of colonisation, oppression and systemic racism, communication is weaponised to silence, distort and erase entire histories, identities and narratives. For Palestinians, the battle over narrative and representation has always been inseparable from the struggle for liberation and self-determination.
 </p>
 
-<br/>
 
 <h3 style="color:#111827; font-size:1.4em;">
 Zionist Repression and Propaganda
@@ -46,7 +42,6 @@ The Zionist movement has sought to not only take over Palestinian land and ethni
 Historically, Palestinian newspapers have been shut down, publications censored, radio stations destroyed, archives looted, research centres bombed, and intellectuals assassinated. Disrupting political organising, suppressing resistance, and isolating Palestinians from global consciousness and struggles have always been part and parcel of the colonial enterprise.
 </p>
 
-<br/>
 
 <blockquote style="border-left:4px solid #111827; padding-left:1em; color:#374151;">
 <p>
@@ -55,7 +50,6 @@ Historically, Palestinian newspapers have been shut down, publications censored,
 <p><em>— Edward Said, <strong>Blaming the Victim</strong></em></p>
 </blockquote>
 
-<br/>
 
 <p style="line-height:1.7; color:#1f2937;">
 <strong>Hasbara</strong>—the Hebrew word for “explanation”—is Israel’s public diplomacy strategy to shape global opinion in its favour by portraying itself as a perpetual victim and framing colonial oppression as “defence.” Popularised in the early 20th century with tropes like “a land without a people for a people without a land,” it has since evolved into a strategic, institutionalised campaign embedded in state bodies and sustained through the coordination and funding of global Zionist lobby groups.
@@ -67,7 +61,6 @@ These networks orchestrate smear campaigns, spread disinformation, and lobby gov
 
 <p style="color:#6b7280;"><em>*Explore more on Hasbara in this section</em></p>
 
-<br/>
 
 <h3 style="color:#111827; font-size:1.4em;">
 The Broader System of Erasure
@@ -85,7 +78,6 @@ These actors work to sanitise Israeli oppression while spreading narratives stri
 Meanwhile, Palestinians are erased and censored, their credibility made contingent on Western or Israeli validation, their analysis doubted or outright delegitimised and their narratives confined to fit narrow, ethnocentric frames.
 </p>
 
-<br/>
 
 <h3 style="color:#111827; font-size:1.4em;">
 Our Response
@@ -103,7 +95,6 @@ It centres Palestinian narratives on their own terms, dismantling harmful framin
 More than a resource, this guide is a manifesto to unlearn, relearn, and practice liberatory communication.
 </p>
 
-<br/>
 
 <h3 style="color:#111827; font-size:1.4em;">
 The Urgency Now
@@ -117,7 +108,6 @@ While much of this guide was developed before the genocide, its relevance has on
 Responsible communication is not merely an ethical imperative—it is a matter of survival.
 </p>
 
-<br/>
 
 <h3 style="color:#111827; font-size:1.4em;">
 Authors and Editors
@@ -128,6 +118,13 @@ This guide is the outcome of a Palestinian-led collective process, coordinated b
 </p>
 <p style="line-height:1.7; color:#1f2937;">
 ‍Communicating Palestine is led and hosted by PIPD, as part of its mission to advocate for the liberation of Palestine from all forms of settler colonialism and advance Palestinian people’s diplomacy and a Palestinian-led movement.
+</p>
+<p align="center">
+  <img
+    src="https://cdn.prod.website-files.com/68b7a404397151114985814c/68d221ee6dc177ec2e6b6727_pipdlogo.png"
+    alt="Communicating Palestine"
+    width="100%"
+  />
 </p>
 
 <p style="color:#6b7280;"><em>*Find more in the background section*</em></p>
