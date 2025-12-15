@@ -2,13 +2,14 @@
 <!-- COMMUNICATING PALESTINE -->
 <!-- ========================= -->
 
-<h1 align="center" style="font-size: 2.6em; letter-spacing: 0.08em;">
-  COMMUNICATING PALESTINE
-</h1>
-
-<p align="center" style="font-size: 1.1em; color: #6b7280;">
-  Narrate for Liberation &nbsp;•&nbsp; Engage with Dignity
+<p align="center">
+  <img
+    src="[https://example.com/path/to/header.jpg](https://cdn.prod.website-files.com/68b7a404397151114985814c/68c1cc66b4897f5ec89f416e_CP_Logo_FC.svg)"
+    alt="Communicating Palestine"
+    width="100%"
+  />
 </p>
+
 
 <br/>
 
@@ -125,6 +126,9 @@ Authors and Editors
 
 <p style="line-height:1.7; color:#1f2937;">
 This guide is the outcome of a Palestinian-led collective process, coordinated by a joint steering committee of Palestinian and international organisations, with the generous contributions of research participants.
+</p>
+<p style="line-height:1.7; color:#1f2937;">
+‍Communicating Palestine is led and hosted by PIPD, as part of its mission to advocate for the liberation of Palestine from all forms of settler colonialism and advance Palestinian people’s diplomacy and a Palestinian-led movement.
 </p>
 
 <p style="color:#6b7280;"><em>*Find more in the background section*</em></p>
